@@ -1,6 +1,8 @@
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
+ * 
+ * Now I can add some comments after the merging.
  */
 package graph;
 

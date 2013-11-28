@@ -3,6 +3,8 @@
  * and open the template in the editor.
  * 
  * Now I can add some comments after the merging.
+ * some new notes.
+ * new comments
  */
 package graph;
 
